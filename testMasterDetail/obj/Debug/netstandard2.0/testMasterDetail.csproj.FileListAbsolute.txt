@@ -1,0 +1,17 @@
+/Users/todd/Projects/testMasterDetail/testMasterDetail/bin/Debug/netstandard2.0/testMasterDetail.deps.json
+/Users/todd/Projects/testMasterDetail/testMasterDetail/bin/Debug/netstandard2.0/testMasterDetail.dll
+/Users/todd/Projects/testMasterDetail/testMasterDetail/bin/Debug/netstandard2.0/testMasterDetail.pdb
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/testMasterDetail.csprojAssemblyReference.cache
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/testMasterDetail.csproj.CoreCompileInputs.cache
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/testMasterDetail.AssemblyInfoInputs.cache
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/testMasterDetail.AssemblyInfo.cs
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/testMasterDetail.dll
+/Users/todd/Projects/testMasterDetail/testMasterDetail/obj/Debug/netstandard2.0/testMasterDetail.pdb
